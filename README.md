@@ -1,5 +1,8 @@
 ## Reddit Data Pipeline Engineering | AWS End-to-End Data Engineering
 
+
+![alt text](architecture.png)
+
 ### Overview
 
 This project demonstrates a comprehensive end-to-end data engineering pipeline utilizing various AWS services to extract, transform, and load (ETL) data from Reddit. The pipeline is designed to efficiently manage the flow of data from extraction to analysis, leveraging AWS's robust infrastructure and tools.
